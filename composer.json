@@ -1,0 +1,15 @@
+{
+    "name": "root/poo",
+    "authors": [
+        {
+            "name": "Charlie BELIER",
+            "email": "bichon@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+    	"psr-4": {
+    		"" : "src/"
+    	}
+    }
+}
